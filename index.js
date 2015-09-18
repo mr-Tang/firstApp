@@ -1,1 +1,1 @@
-exports.name = "Tang";
+exports.name = "Tangnitipong";
